@@ -1,5 +1,5 @@
 {
-    "name": "onelogin/php-saml",
+    "name": "pitbulk/php-saml",
     "description": "OneLogin PHP SAML Toolkit",
     "license": "MIT",
     "homepage": "https://developers.onelogin.com/saml/php",
@@ -13,8 +13,8 @@
     },
     "support": {
         "email": "sixto.garcia@onelogin.com",
-        "issues": "https://github.com/onelogin/php-saml/issues",
-        "source": "https://github.com/onelogin/php-saml/"
+        "issues": "https://github.com/pitbulk/php-saml/issues",
+        "source": "https://github.com/pitbulk/php-saml/"
     },
     "require": {
         "php": ">=5.3.2 <7.2",
