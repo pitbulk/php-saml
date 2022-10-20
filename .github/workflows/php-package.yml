@@ -3,11 +3,7 @@
 
 name: php-saml 4.x package
 
-on:
-  push:
-    branches: [ 4.* ]
-  pull_request:
-    branches: [ 4.* ]
+on: [push]
 
 jobs:
   test:
